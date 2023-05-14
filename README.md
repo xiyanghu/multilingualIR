@@ -4,4 +4,4 @@
 
 This accompanies the paper, ["Language Agnostic Multilingual Information Retrieval with Contrastive Learning"](https://arxiv.org/abs/2210.06633). It is published in the **2023 ACL Findings**.
 
-**Code will coming soon**
+*Code will coming soon*
